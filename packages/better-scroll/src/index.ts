@@ -22,3 +22,5 @@ BetterScrollCore.use(MouseWheel)
   .use(InfinityScroll)
 
 export default BetterScrollCore
+
+console.log(1)
