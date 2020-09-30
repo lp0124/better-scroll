@@ -1,38 +1,13 @@
 {
   "name": "@better-scroll/zoom",
   "version": "2.1.1",
-  "description": "a BetterScroll plugin to enlarge or narrow",
-  "author": {
-    "name": "huangyi",
-    "email": "ustbhuangyi@gmail.com"
-  },
-  "main": "dist/zoom.min.js",
-  "module": "dist/zoom.esm.js",
-  "typings": "dist/types/index.d.ts",
   "publishConfig": {
     "access": "public"
   },
-  "bugs": {
-    "url": "https://github.com/ustbhuangyi/better-scroll/issues"
-  },
-  "homepage": "https://github.com/ustbhuangyi/better-scroll",
-  "keywords": [
-    "scroll",
-    "iscroll",
-    "javascript",
-    "typescript",
-    "ios",
-    "image-preview",
-    "zoom"
-  ],
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:ustbhuangyi/better-scroll.git",
     "directory": "packages/zoom"
   },
-  "dependencies": {
-    "@better-scroll/core": "^2.1.1"
-  },
-  "gitHead": "e9687e2f7b2479df39fa0cf3c38216506835d291"
+  "gitHead": "886c2f0a2a17a1130a1b803b17fc4582f8ba6cae"
 }
