@@ -32,5 +32,6 @@
   },
   "dependencies": {
     "@better-scroll/core": "^2.0.0"
-  }
+  },
+  "gitHead": "e9687e2f7b2479df39fa0cf3c38216506835d291"
 }
